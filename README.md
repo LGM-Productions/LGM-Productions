@@ -1,8 +1,7 @@
 # Welcome to my Profile!
 
 ## About me!
-> (He/Him)
-> Some Random Person
+> (He/Him), Game Developer, Beginner Animator
 
 - Collab Requests: Yes
 - Status: Bored
