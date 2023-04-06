@@ -3,7 +3,7 @@
 ## About me!
 > (He/Him), Game Developer, Beginner Animator
 
-- Collab Requests: Yes
+- Collab Requests: No
 - Status: Bored
 
-> Current Quote: bah, bah!
+> Current Quote: I have no idea!
