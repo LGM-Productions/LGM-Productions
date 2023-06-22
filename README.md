@@ -2,10 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=lgm-productions&color=yellow)
 
-## About me!
-> (He/Him), Game Developer, Beginner Animator
+## About me
+> (He/Him), Game Developer, Animator
 
-- Collab Requests: No
+- Collab Requests: Yes
 - Status: Bored
-
-> Current Quote: I have no idea!
