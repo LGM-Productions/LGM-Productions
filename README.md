@@ -3,7 +3,11 @@
 ![](https://komarev.com/ghpvc/?username=lgm-productions&color=yellow&style=plastic)
 
 ## About me
-> (He/Him), Game Developer, Animator
 
-- Collab Requests: Yes
-- Status: Creating Something New
+Pronouns: He/Him
+Hobbies: Game Development, 2D Animation
+
+## Status
+
+Collab Requests: No
+Status: Working on projects.
