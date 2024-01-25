@@ -4,10 +4,10 @@
 
 ## About me
 
-Pronouns: He/Him
-Hobbies: Game Development, 2D Animation
+-Pronouns: He/Him
+-Hobbies: Game Development, 2D Animation
 
 ## Status
 
-Collab Requests: No
-Status: Working on projects.
+-Collab Requests: No
+-Status: Working on projects.
