@@ -1,13 +1,13 @@
 # Welcome to my Profile!
 
-![](https://komarev.com/ghpvc/?username=lgm-productions&color=yellow&style=plastic)
-
-## About me
+## About Me
 
 - Pronouns: He/Him
-- Hobbies: Game Development, 2D Animation
+- Main Hobbies: Game Development, Gaming, 2D Animation
 
 ## Status
 
 - Collab Requests: No
 - Status: Working on projects.
+
+![](https://komarev.com/ghpvc/?username=lgm-productions&color=yellow&style=plastic)
