@@ -7,7 +7,6 @@
 
 ## Status
 
-- Collab Requests: No
-- Status: Working on projects.
+- Working on projects.
 
 ![](https://komarev.com/ghpvc/?username=lgm-productions&color=yellow&style=plastic)
